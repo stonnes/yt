@@ -2,8 +2,8 @@
 
 ![Supported Python Version](https://img.shields.io/badge/python%20version-≥%203.6-important)
 [![Latest Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://yt-project.org/docs/dev/)
-[![Users' Mailing List](https://img.shields.io/badge/Users-List-lightgrey.svg)](https://mail.python.org/archives/list/yt-users@python.org//)
-[![Devel Mailing List](https://img.shields.io/badge/Devel-List-lightgrey.svg)](https://mail.python.org/archives/list/yt-dev@python.org//)
+[![Users' Mailing List](https://img.shields.io/badge/Mailing%20List-Users-lightgrey.svg)](https://mail.python.org/archives/list/yt-users@python.org//)
+[![Devel Mailing List](https://img.shields.io/badge/Mailing%20List-Devel-lightgrey.svg)](https://mail.python.org/archives/list/yt-dev@python.org//)
 [![Data Hub](https://img.shields.io/badge/data-hub-orange.svg)](https://hub.yt/)
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 [![Sponsor our Project](https://img.shields.io/badge/donate-to%20yt-blueviolet)](https://numfocus.salsalabs.org/donate-to-yt/index.html)
